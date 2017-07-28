@@ -1,0 +1,7 @@
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.exe.config
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.exe
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.pdb
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.exe
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.pdb
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.exe.CodeAnalysisLog.xml
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.exe.lastcodeanalysissucceeded

@@ -1,0 +1,11 @@
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplicationTest.dll
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplicationTest.pdb
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplicationTest.dll.CodeAnalysisLog.xml
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplicationTest.dll.lastcodeanalysissucceeded
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplication.exe
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplication.pdb
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplication.exe.config
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\obj\Debug\SomeConsoleApplicationTest.csprojResolveAssemblyReference.cache
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\obj\Debug\SomeConsoleApplicationTest.dll
+C:\Users\rgauny\Documents\GitHub\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\obj\Debug\SomeConsoleApplicationTest.pdb
